@@ -1,2 +1,2 @@
-# SymbioticPenguin.github.io
-Homework submission for HTML challenge
+# HTML_challenge
+Homework submission for HTML homework
